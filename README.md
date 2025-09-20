@@ -47,6 +47,7 @@ When deploying the app (e.g., Netlify, Vercel, Render):
 ## Environment Variables
 
 The app uses a `.env` file for environment variables. Example:
+.env file variables -> VITE_API_URL = backend-domain url
 
 
 <img width="1366" height="636" alt="Screenshot5" src="https://github.com/user-attachments/assets/ef4a08a9-8b2d-434c-be2f-0c3c5f9c7d7f" />
