@@ -48,7 +48,8 @@ When deploying the app (e.g., Netlify, Vercel, Render):
 The app uses a `.env` file for environment variables. Example:
 
 
-<img width="1366" height="638" alt="Screenshot6" src="https://github.com/user-attachments/assets/9dae2ced-2057-4258-840f-6b4b5a0d5a1b" />
+<img width="1366" height="636" alt="Screenshot5" src="https://github.com/user-attachments/assets/ef4a08a9-8b2d-434c-be2f-0c3c5f9c7d7f" />
+
 
 <img width="1366" height="633" alt="Screenshot1" src="https://github.com/user-attachments/assets/3cfd1e2b-2b63-40e0-92f8-39a7016f4641" />
 
