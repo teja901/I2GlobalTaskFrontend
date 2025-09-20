@@ -53,5 +53,16 @@ The app uses a `.env` file for environment variables. Example:
 <img width="1366" height="633" alt="Screenshot1" src="https://github.com/user-attachments/assets/3cfd1e2b-2b63-40e0-92f8-39a7016f4641" />
 
 
+<img width="1366" height="638" alt="Screenshot6" src="https://github.com/user-attachments/assets/f3091aea-458e-43b0-b84e-0773a76703b8" />
+
+<img width="1366" height="626" alt="Screenshot3" src="https://github.com/user-attachments/assets/1681e41a-0e45-4fb7-a3f1-7294e3c5db55" />
+
+
+<img width="1366" height="632" alt="Screenshot2" src="https://github.com/user-attachments/assets/9ae09586-2d58-4d3e-badb-a1291d2f47cc" />
+
+
+<img width="1366" height="633" alt="Screenshot1" src="https://github.com/user-attachments/assets/c02111b1-aeca-4306-8da1-c9510bc66730" />
+
+
 
 
