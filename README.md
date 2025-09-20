@@ -6,12 +6,13 @@ This is a **React application built with Vite**, designed for managing notes. It
 
 ## Features
 
-- User authentication (Sign In / Sign Up)
+- User authentication (Sign In / Sign Up) 
 - Protected routes for authenticated users
 - Profile page with user details
 - Notes management (add, view, delete)
 - Responsive and modern UI
 - Built with React, Vite, Tailwind CSS, and Zustand for state management ,and Framer Motion
+- Used JWT Tokens for every request to authenticate 
 
 ---
 
